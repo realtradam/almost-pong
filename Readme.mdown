@@ -1,1 +1,3 @@
 [See here to read more and play the game](https://tradam.itch.io/almost-pong)
+
+Uses my custom made mruby-raylib bindings which can be found here: https://github.com/realtradam/mruby-raylib
